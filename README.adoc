@@ -1,7 +1,27 @@
 = Database
 
-**link:/Module01[01. 데이터베이스 개요]**
+== 📚 교재 : https://github.com/gikpreet/class-relational_database/tree/main[Git Hub]
 
-**link:/Module02[02. 관계 모델]**
+=== ⌗ CHAPTER
+|===
+| link:/Module01[01. 데이터베이스 개요]
 
-**link:/Module06[06. SQL]**
+| link:/Module02[02. 관계 모델]
+
+| link:/Module06[06. SQL]
+
+| link:/Module09[09. ER Model]
+
+| link:/Moduel10[10. 스키마 정제와 정규형]
+
+
+|===
+
+
+
+
+
+
+
+
+
