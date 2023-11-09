@@ -9,6 +9,8 @@
 
 | link:/Module02[02. 관계 모델]
 
+| link:/Module03[03. 디스크와 파일]
+
 | link:/Module06[06. SQL]
 
 | link:/Module09[09. ER Model]
